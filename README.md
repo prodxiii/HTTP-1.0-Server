@@ -2,6 +2,9 @@
 Project 1 for Computer System (COMP30023).
 A simple static file server with minimum support of HTTP 1.0 written in C.
 
+### Prerequisite
+    sys/sendfile.h 
+
 ### Installation
 
     git clone git@github.com:CaviarChen/comp30023-2018-project-1.git
